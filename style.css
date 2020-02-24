@@ -10,11 +10,11 @@ h1 {
     margin-bottom: 2px;
     text-align: center;
     letter-spacing: 10px;
-    background-image: linear-gradient(to right top, rgb(0, 81, 255), white);
+   
 }
 
 main {
-    background-image: linear-gradient(to right, rgb(0, 81, 255), white, rgb(0, 81, 255));
+    background-image: linear-gradient(to right, rgb(46, 148, 196), white, rgb(46, 148, 196));
 }
 
 .main-info::after {
@@ -32,6 +32,7 @@ main {
 img {
     margin: 10px;
     margin-left: 20px;
+    border-radius: 1rem;
     box-shadow: -5px -5px 5px 2px rgb(6, 6, 90);
 }
 
